@@ -1,3 +1,14 @@
+Welcome to my Final Project
+
+I created a Currency converter that converts between different currencies given by a user.
+
+Notes for peer review: I will be adding an API to get current exchange rates, so the numbers that are plugged in right now are not accurate as they only served to see if my code works.
+
+
+
+
+
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
